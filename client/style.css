@@ -14,11 +14,15 @@ body {
 
 }
 
-.form-horizontal > .form-group > label >p {
+/*.form-horizontal > .form-group > label >p {
 	float: right;
-}
+}*/
 
 #mad-lib-console {
 	margin-top: 20px;
 	font-size: 16pt;
+}
+
+.color {
+	color: #0000ff;
 }
